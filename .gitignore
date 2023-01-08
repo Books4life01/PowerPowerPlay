@@ -1,0 +1,12 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+#ignore credentials file
+credentials_02.json
+#not actually used in project
+CSVTalker.java
+#ignore tokens folder
+token/
