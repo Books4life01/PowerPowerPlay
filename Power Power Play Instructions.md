@@ -4,7 +4,7 @@ First, make sure you have the JDK(java development kit installed. You can easily
 
 Then run the Power Power PLayV3 exe file to ensure everything is working. If you get a message saying a JNI error has occurred it is probably because you didn't download the JDK
 
-![menu](https://raw.githubusercontent.com/Books4life01/PowerPowerPlay/master/menu.png)
+![](menu.png)
 
 -To upload and view statistics press the Statistics button; it will redirect you to a web browser and it will ask you to log into an email
 
